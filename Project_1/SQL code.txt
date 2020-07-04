@@ -1,0 +1,13 @@
+
+SELECT *
+FROM city_list
+ORDER BY 2,1;
+
+SELECT *
+FROM city_data
+WHERE city = 'Dallas'
+ORDER BY 1;
+
+SELECT *
+FROM global_data
+ORDER BY 1;
